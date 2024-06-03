@@ -19,6 +19,6 @@ Pour exécuter le programme, vous pouvez utiliser la classe `Main`. Elle crée u
 
 ## Capture d'Écran de l'execution de la classe `Main`
 
-![Capture d'Écran du Programme](captures/Execution.png)
+![Capture d'Écran d'execution](captures/Execution.png)
 
 N'hésitez pas à explorer le code pour plus de détails sur l'implémentation.
